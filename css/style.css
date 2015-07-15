@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{}
+input{
+	padding:10px;
+	background:#FFF;
+	border:1px solid #ccc;
+	margin:1;
+	}
